@@ -21,13 +21,29 @@ Provides a seamless user experience for quick and smart email responses.
 🚀 Tech Stack
 
 Spring Boot 2
+
+
 Java 17
+
+
 React
+
+
 Chrome-Extension 
+
+
 Google Gemini AI API
+
+
 Docker
+
+
 Kubernetes (Minikube)
+
+
 Maven
+
+
 Lombok
 
 Below are the example output from the web page and using chrome extension:
